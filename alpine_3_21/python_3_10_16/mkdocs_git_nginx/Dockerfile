@@ -13,4 +13,4 @@ RUN apk update && \
     pip install mkdocs-git-revision-date-localized-plugin
 
 # docker build -t sunfeilong1993/mkdocs-git-nginx:0.0.1 .
-# docker docker push sunfeilong1993/mkdocs-git-nginx:0.0.1
+# docker push sunfeilong1993/mkdocs-git-nginx:0.0.1
